@@ -63,6 +63,8 @@ li{
 /* TYPOGRAPHY */
 
 .startup-text{
+    display: flex;
+    align-items: center;
     font-size: 24px;
     font-weight: 700;
     color: #1E0E62;
